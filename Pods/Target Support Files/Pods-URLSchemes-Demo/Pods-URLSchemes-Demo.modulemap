@@ -1,6 +1,0 @@
-framework module Pods_URLSchemes_Demo {
-  umbrella header "Pods-URLSchemes-Demo-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -2,7 +2,9 @@
 
 ## Introdução
  
-A URL scheme é uma funcionalidade muito interessante pois permite que aplicativos comuniquem entre em si. É possível clicar em um link no Safari e ser redirecionado para um app, levar o usuário diretamente para um conteúdo, etc.  O próprio iOS possui URL schemes nativas, sendo possível iniciar o app de telefone discando para um número, iniciar o app de e-mail com o destinatário escrito, etc.
+A URL scheme é uma funcionalidade muito interessante pois permite que aplicativos comuniquem entre em si. É possível clicar em um link no Safari e ser redirecionado para um app, levar o usuário diretamente para um conteúdo, etc.  
+
+O próprio iOS possui URL schemes nativas, sendo possível iniciar o app de telefone discando para um número, iniciar o app de e-mail com o destinatário escrito, etc.
 
 No PlayKids a funcionalidade é utilizada em diversas ocasiões:
 
